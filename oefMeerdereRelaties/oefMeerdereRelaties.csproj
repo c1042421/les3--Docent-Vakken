@@ -43,8 +43,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Docent.cs" />
+    <Compile Include="Gemeente.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Provincie.cs" />
     <Compile Include="Vak.cs" />
   </ItemGroup>
   <ItemGroup>
